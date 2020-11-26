@@ -31,7 +31,7 @@
 3. 노르망디
 4. 히로시마, 나가사키
 ### 참고 자료
-[![Youtube](http://img.youtube.com/vi/oB3Vev8kcBY/0.jpg)](http://www.youtube.com/watch?v=oB3Vev8kcBY "Youtube")
+[![Youtube](http://img.youtube.com/vi/oB3Vev8kcBY/0.jpg)](https://www.youtube.com/embed/oB3Vev8kcBY "Youtube")
 
 ## 2교시 - 기가
 ### 바로가기
@@ -40,8 +40,8 @@
 1. 영상을 보고 자신의 목표를 세우시오.
 2. 고등학교 입학하기 전 3개월간 이루고 싶은 목표를 쓰시오.
 ### 참고 자료
-[![Youtube](http://img.youtube.com/vi/yUt9ACfZz7o/0.jpg)](http://www.youtube.com/watch?v=yUt9ACfZz7o "Youtube")
-[![Youtube](http://img.youtube.com/vi/952p8Mr8DUM/0.jpg)](http://www.youtube.com/watch?v=952p8Mr8DUM "Youtube")
+[![Youtube](http://img.youtube.com/vi/yUt9ACfZz7o/0.jpg)](https://www.youtube.com/embed/yUt9ACfZz7o "Youtube")
+[![Youtube](http://img.youtube.com/vi/952p8Mr8DUM/0.jpg)](https://www.youtube.com/embed/952p8Mr8DUM "Youtube")
 
 ## 3교시 - 국어
 ### 바로가기
