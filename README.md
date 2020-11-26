@@ -34,23 +34,30 @@
 ## 2교시 - 기가
 ### 바로가기
 [기가 바로가기](https://rang.edunet.net/class/G000367106/hmwkppList.do?hmwkSeq=716010&hmwkTypeCd=ALL)
-### 문제
-영상을 보고 자신의 목표를 세우시오.
-고등학교 입학하기 전 3개월간 이루고 싶은 목표를 쓰시오.
+### 제출 과제
+1. 영상을 보고 자신의 목표를 세우시오.
+2. 고등학교 입학하기 전 3개월간 이루고 싶은 목표를 쓰시오.
 
 ## 3교시 - 국어
 ### 바로가기
+<!--
 [국어 바로가기](https://rang.edunet.net/class/G000323851/hmwkppList.do?hmwkSeq=NO_EXISTS&hmwkTypeCd=ALL)
+### 문제
+### 정답
+-->
 * 아직 올라오지 않음 (2020. 11. 26. 20:48)
 
 ## 4교시 - 수학
 ### 바로가기
-[수학 바로가기](https://rang.edunet.net/class/G000325407/hmwkppList.do?hmwkSeq=716427&hmwkTypeCd=ALL)
+<!--
+[수학 바로가기](https://rang.edunet.net/class/G000325357/hmwkppList.do?hmwkSeq=NO_EXISTS&hmwkTypeCd=ALL)
 ### 문제
 ### 정답
+-->
+* 아직 올라오지 않음 (2020. 11. 26. 20:52)
 
 ## 5교시 - 자율
 ### 바로가기
-[역사 바로가기](https://rang.edunet.net/class/G000325407/hmwkppList.do?hmwkSeq=716427&hmwkTypeCd=ALL)
-### 문제
-### 정답
+[자율 바로가기](https://rang.edunet.net/class/G000364114/hmwkppList.do?hmwkSeq=715818&hmwkTypeCd=ALL)
+### 제출 과제
+1. 느낀점 쓰기 (100자 이상)
