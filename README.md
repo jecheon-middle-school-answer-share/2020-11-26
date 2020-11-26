@@ -287,3 +287,5 @@ And when this happens, when we allow freedom ring, when we let it ring from ever
 [자율 바로가기](https://rang.edunet.net/class/G000364114/hmwkppList.do?hmwkSeq=715818&hmwkTypeCd=ALL)
 ### 제출 과제
 1. 느낀점 쓰기 (100자 이상)
+### 참고 자료
+[![Youtube](http://img.youtube.com/vi/eTGUqWi2gw8/0.jpg)](https://www.youtube.com/embed/eTGUqWi2gw8 "Youtube")
