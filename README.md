@@ -280,7 +280,7 @@ And when this happens, when we allow freedom ring, when we let it ring from ever
 ### 문제
 ### 정답
 -->
-* 아직 올라오지 않음 (2020. 11. 26. 20:52)
+* 아직 올라오지 않음 (2020. 11. 27. 09:00)
 
 ## 5교시 - 자율
 ### 바로가기
