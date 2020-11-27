@@ -279,6 +279,26 @@ And when this happens, when we allow freedom ring, when we let it ring from ever
 ### 문제
 https://rang.edunet.net/common/fileDownload.do?type=homework&sequence=482307
 ### 정답
+#### 평균
+1. 4
+2. 10
+3. 90
+4. 18
+5. 3
+6. 53
+7. 14
+8. 4
+9. 21
+10. 10
+#### 중앙값
+1. 20
+2. 16
+3. 50
+4. 7
+5. 8
+6. 10
+7. 19
+8. 21
 
 ## 5교시 - 자율
 ### 바로가기
