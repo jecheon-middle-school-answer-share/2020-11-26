@@ -275,12 +275,10 @@ And when this happens, when we allow freedom ring, when we let it ring from ever
 
 ## 4교시 - 수학
 ### 바로가기
-<!--
-[수학 바로가기](https://rang.edunet.net/class/G000325357/hmwkppList.do?hmwkSeq=NO_EXISTS&hmwkTypeCd=ALL)
+[수학 바로가기](https://rang.edunet.net/class/G000325357/hmwkppList.do?hmwkSeq=716862&hmwkTypeCd=ALL)
 ### 문제
+https://rang.edunet.net/common/fileDownload.do?type=homework&sequence=482307
 ### 정답
--->
-* 아직 올라오지 않음 (2020. 11. 27. 09:00)
 
 ## 5교시 - 자율
 ### 바로가기
